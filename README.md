@@ -1,8 +1,8 @@
-# [Resume Website](https://edonovanto.me)
+# [Edo Novanto Resume Website](https://edonovanto.me)
 
 ## Preview
 
-[![Resume Preview](https://github.com/edonovanto/resumeWebsite/blob/master/dist/img/WebsitePage.png)
+![Resume Preview](https://github.com/edonovanto/resumeWebsite/blob/master/img/WebsitePage.png)
 
 **[View Live Preview](https://edonovanto.me)**
 
