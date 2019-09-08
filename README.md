@@ -4,7 +4,7 @@
 
 [![Resume Preview](https://github.com/edonovanto/resumeWebsite/blob/master/img/WebsitePage.png)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://edonovanto.me)**
 
 ## Status
 
