@@ -256,3 +256,7 @@ ul.education{
   padding-left: 0 !important;
 }
 
+.file-download {
+  list-style-type:square;
+}
+
