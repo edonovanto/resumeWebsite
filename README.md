@@ -1,4 +1,4 @@
-# [Edo Novanto Resume Website](https://edonovanto.me)
+# [Edo Novanto Resume Website.](https://edonovanto.me)
 
 ## Preview
 
